@@ -1,5 +1,5 @@
 # Config
-home: false  # True : Set home as latest post, False : Set home as an index
+home: true  # True : Set home as latest post, False : Set home as an index
 
 # Header
 menu:
@@ -20,7 +20,6 @@ fancybox: true
 widgets:
 - tag
 - category
-- recent_posts
 
 # Google Analytics
 ga_id :

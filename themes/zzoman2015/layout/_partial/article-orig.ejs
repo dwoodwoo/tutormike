@@ -5,6 +5,7 @@
             <% if (post.link || post.title){ %>
             <header class="article-header">
                 <div class="article-meta">
+                    <%- partial('post/date', {class_name: 'article-date', date_format: null}) %>
                     <%- partial('post/category', {class_name: 'article-category'}) %>
                     <%- partial('post/tag') %>
                 </div>

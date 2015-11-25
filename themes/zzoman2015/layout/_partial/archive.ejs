@@ -1,6 +1,7 @@
 <% if (index){ %>
     <script>
-        location.href = '<%- url_for("/") %><%= page.posts.data[0].path %>';
+    	location.href = '<%- url_for("/home") %>';
+        // location.href = '<%- url_for("/") %><%= page.posts.data[0].path %>';
     </script>
 <% } else { %>
 
