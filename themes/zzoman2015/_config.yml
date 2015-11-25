@@ -4,7 +4,7 @@ home: true  # True : Set home as latest post, False : Set home as an index
 # Header
 menu:
 	Home: /home
-  About: /about
+  About: about
   Tutoring Services: /tutoring-services
   Testimonials: /testimonials
   Contact Us: /contact-us
