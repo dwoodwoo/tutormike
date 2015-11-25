@@ -6,14 +6,14 @@
 title: Tutor Mike
 subtitle:
 description:
-author: John Doe
+author: Michael Malione
 language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://dwoodwoo.github.io
-root: /tutormike
+url: http://dwoodwoo.github.io/tutormike
+root: /tutormike/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
