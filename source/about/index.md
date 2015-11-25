@@ -12,6 +12,3 @@ I know from personal experience what it takes to place into top league schools. 
 The power to do well acadmically can be TRAINED. Directed training has proven to be the key to all students placing higher. (some study) shows that students who receive tutoring average (178) points better on the SAT than those who don't. Students with me will receive a combination of subject material knowledge and test-taking strategy.
 
 I take on all students -- however, those who receive the greatest benefit from my services are not starting from 0 expecting to get to 60. I am best prepared to get students from 30 to 120.
-
-
-
