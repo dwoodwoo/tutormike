@@ -6,7 +6,8 @@ Tutor Mike can help you to reach extreme proficiency in most science and math-re
 
 I provide customized tutoring in three broad areas: Academic Tutoring, Test Preparation, and Specialty Coaching. My specialty in Academic Tutoring is Advanced Placement (AP) courses, though I thoroughly enjoy working with individuals to help them master these subjects at all levels. When I was in high school, I mastered the technique of learning content material cold, through a vital balancing of a deeper understanding of the logic connecting many disparate topics against the practice of knowing the formulas and approaches to apply in any given test problem situation. 
 
-### *Academic Tutoring*: Improve your grades in particular courses. Gain greater understanding and better subject retention, which will serve you both in your current courses, as well as in the more advanced courses you'll be taking in the future.
+### *Academic Tutoring*:
+Improve your grades in particular courses. Gain greater understanding and better subject retention, which will serve you both in your current courses, as well as in the more advanced courses you'll be taking in the future.
 
 ### Math Tutoring
 * Algebra I & II 
