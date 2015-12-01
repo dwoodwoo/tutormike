@@ -29,7 +29,7 @@ Improve your grades in particular courses. Gain greater understanding and better
 ### *Advanced Placement (AP) Courses*:
 This tutoring is a cross between academic tutoring and test preparation, for high school students and nontraditional learners who are taking AP classes and/or preparing to take the AP Exams to earn college credit for this work.
 
-Most students take an academic program in school to prepare for these exams, and my tutoring is aimed at both improving the course performance and doing better on the test. I also believe that AP courses and testing can be a great way for students to begin planning their college careers, and this is an important aspect of the opportunity that is often overlooked in the push to handle all of the content.
+Most students take an academic program in school to prepare for these exams, and my tutoring is aimed at both improving the course performance and doing better on the test. I also believe that AP courses and testing can be a great way for students to begin planning their college careers, and this is an important aspect of the opportunity that is often overlooked in the push to handle all of the content. The AP program gives both traditional and nontraditional students a way to get a leg up on college.
 
 I cover the following AP subjects, many of which I completed myself in high school and received top scores on the AP Exams, granting me an offer of sophomore standing upon my entry into college at Harvard.
 
