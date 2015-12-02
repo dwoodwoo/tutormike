@@ -7,6 +7,10 @@ I've been passionate about tutoring since I was in high school myself, assisting
 
 In my own schooling, I discovered a natural talent for science and math, which I nourished to achieve scores in the top 1% on many standardized tests. Over the years, I've helped many others boost their SAT and AP scores significantly.
 
+* From Top Universities
+* 99th Percentile Scorer
+* Experienced Teacher
+
 I also know from personal experience what it takes to place into top league schools. Achievement at the high school level determines success in college and throughout life. But that alone is not enough.
 
 #### How I'm Different
