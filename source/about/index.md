@@ -11,6 +11,13 @@ I know from personal experience what it takes to place into top league schools. 
 
 I also have over a decade of experience as a teacher and tutor, augmented with a multi-faceted early career in computer graphics technolgy, and a variety of professional explorations.
 
+
+#### Advanced Placement
+
+#### Academic Coaching
+Through my coaching, I can help you gain general learning skills, to help you with effective studying, work organization, and time management. My coaching is unique to the industry, as it incorporates confidence-building, getting the most from available academic resources, college application choices, and pre-career advising. One of the benefits of working with me is that I provide a wide array of services that I custom tailor to each individual, in response to thier specific strengths and needs.
+
+
 The power to do well acadmically can be TRAINED. Directed training has proven to be the key to all students placing higher. (some study) shows that students who receive tutoring average (178) points better on the SAT than those who don't. Students with me will receive a combination of subject material knowledge and test-taking strategy.
 
 I take on all students -- however, those who receive the greatest benefit from my services have some prior practice, with certain focused areas of struggle. That way, our time can be focused toward making the biggest difference in grades, test results, and student satisfaction.
