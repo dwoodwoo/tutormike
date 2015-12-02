@@ -14,4 +14,4 @@ Locations for Tutoring Services: **Piedmont**, **Oakland**, **Berkeley**. Also: 
 
 **Private tutoring** is proven as your best weapon against **academic frustration and failure**. Arm yourself by contacting Tutor Mike!
 
-Don't be herded in with lesser corporate tutoring services. Private tutoring is available without a long-term contract. Customized teaching based on years of experience helps shepherd you from early stages to educational success. I provide individualized, top-notch, directed tutoring, premium services that will get you better results at a lower cost. 
+Don't be herded in with lesser corporate tutoring services. Private tutoring is available without a long-term contract. My customized approach, based on years of experience, helps shepherd you from early stages to educational success. I provide individualized, top-notch, directed tutoring, a premium service that is very focused yet also holistic, to bring you better results at a lower cost. 
