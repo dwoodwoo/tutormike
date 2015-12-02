@@ -2,7 +2,7 @@ title: Tutoring Services
 date: 2015-11-23 05:15:28
 ---
 ## Tutoring Services
-Tutor Mike can help you to reach extreme proficiency in most science and math-related subject areas.
+Tutor Mike can help you to reach extreme proficiency in most science and math-related subject areas. Contact me to find out more and set up a free consultation.
 
 ### **Academic Tutoring**:
 Improve your grades in particular courses. Gain greater understanding and better subject retention, which will serve you both in your current courses, as well as in the more advanced courses you'll be taking in the future.
