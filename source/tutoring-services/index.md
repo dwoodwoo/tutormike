@@ -27,8 +27,6 @@ Improve your grades in particular courses. Gain greater understanding and better
 I work with individuals to help them master these subjects at all levels. When I was in high school, I mastered the technique of learning content material cold, through a vital balancing of a deeper understanding of the logic connecting many disparate topics against the practice of knowing the formulas and approaches to apply in any given test problem situation. 
 
 ### **Advanced Placement (AP) Subjects**:
-This tutoring is a cross between academic tutoring and test preparation, for high school students and nontraditional learners who are taking AP classes and/or preparing to take the AP Exams to earn college credit for this work.
-
 I cover the following AP subjects, many of which I completed myself in high school and received top scores on the AP Exams, granting me an offer of sophomore standing upon my entry into college at Harvard.
 
 ### AP Science Subjects
@@ -46,7 +44,7 @@ I cover the following AP subjects, many of which I completed myself in high scho
 * Calculus AB
 * Statistics
 
-Most students take an academic program in school to prepare for these exams, and my tutoring is aimed at both improving the course performance and doing better on the test. I also believe that AP courses and testing can be a great way for students to begin planning their college careers, and this is an important aspect of the opportunity that is often overlooked in the push to handle all of the content. The AP program gives both traditional and nontraditional students a way to get a leg up on college.
+This tutoring is a cross between academic tutoring and test preparation, for high school students and nontraditional learners who are taking AP classes and/or preparing to take the AP Exams to earn college credit for this work. It will improve both course performance and the test score. I also believe that AP courses and testing can be a great way for students to begin planning their college careers, and this is an important aspect of the opportunity that is often overlooked in the push to handle all of the content. The AP program gives both traditional and nontraditional students a way to get a leg up on college.
 
 ### Standardized Test Preparation
 I can help you with all your essential test preparation needs.
