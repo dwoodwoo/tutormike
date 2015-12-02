@@ -3,12 +3,12 @@ date: 2015-11-23 11:11:37
 ---
 # Tutor Mike's -- The Educational Edge
 
-I offer tutoring, instruction, and coaching in the following three broad areas: 
+I offer tutoring, instruction, and coaching: 
 * Academic Tutoring -- Specializing in Advanced Placement (AP) subjects.
 * Test Preparation -- SAT/ACT, SSAT, ISEE, CBEST
 * Specialty Coaching -- Learning Skills, Confidence, Technical Instruction, College and Career Planning
 
-Locations for Tutoring Services: **Piedmont, Oakland, Berkeley**. Also: Marin, Lafayette, Walnut Creek.
+Locations for Tutoring Services: **Piedmont**, **Oakland**, **Berkeley**. Also: **Marin**, **Lafayette**, **Walnut Creek**.
 
 **8-11th graders**, prep **NOW** for college and life. Investing just **1-2 hours per week** can mean a brighter future.
 
