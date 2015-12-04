@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <base href="/tutormike/" target="_blank">
+    <base href="/tutormike/">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -69,9 +69,7 @@
             </header>
             
             <div class="article-body">
-                <div><br><form action="http://formspree.io/dwoo@sent.com" method="POST"><br>    <div class="site-form">foo</div><br>        <input type="text" name="name" placeholder="name..."><br><br>        <input type="email" name="_replyto" placeholder="email"><br><br><br>        <input type="checkbox" name="food" value="food" checked>I ate food<br>        <textarea name="message" rows="4" cols="50" placeholder="text..."></textarea><br><br>        <input type="hidden" name="_next" value="http://0.0.0.0:3333/thanks.html"><br>        <input type="submit" value="Send"><br></form><br></div>
-
-<div><br><form action="http://formspree.io/dwoo@sent.com" method="POST"><br><span style="color:red">should be red</span><br>    <input type="checkbox" name="food" value="food" checked>I ate food<br><br><select name="car"><br>  <option value="volvo">Volvo</option><br>  <option value="saab">Saab</option><br>  <option value="mercedes">Mercedes</option><br>  <option value="audi">Audi</option><br></select><br>  <input type="radio" name="sex" value="male" checked>Male<br>  <br><br>  <input type="radio" name="sex" value="female">Female<br>    <input type="submit" value="Send"><br></form><br></div>
+                <form action="http://formspree.io/dwoo@sent.com" method="POST"><br>    <fieldset><br>        <label for="your_name">Your Name:</label> <input type="text" name="your_name" placeholder="your name..."><br>        <label for="tutoree_name">Tutoree’s Name:</label> <input type="text" name="tutoree_name" placeholder="tutoree's name..."><br><br>        <label for="email">Email:</label> <input type="email" name="_replyto" placeholder="email"><br>        <label for="email_again">Email again:</label> <input type="email" name="email_again" placeholder="email again"><br>        <label for="phone">Phone:</label> <input type="text" name="phone" placeholder="phone"><br><br>    Services:<br>        <input type="checkbox" name="services" value="Tutoring">Tutoring<br>        <input type="checkbox" name="services" value="Test Prep">Test Prep<br>        <input type="checkbox" name="services" value="Other">Other<br><br>        <label for="subjects">Subjects:</label><br>        <textarea name="subjects" rows="4" cols="50" placeholder="Any specific subjects?..."></textarea><br><br><br>        <label for="more_about_student">About Student:</label><br>        <textarea name="more_about_student" rows="4" cols="50" placeholder="About student. (tell us a bit about the student)"></textarea><br><br><br>        <label for="more_info">More info (optional):</label><br>        <textarea name="more_info" rows="4" cols="50" placeholder="More info (optional)"></textarea><br><br>        <input type="hidden" name="_next" value="tutormike/testimonials/"><br>        <input type="submit" value="Send to TutorMike!"><br>    </fieldset><br></form>
 
             </div>
         </div>
