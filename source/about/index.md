@@ -3,6 +3,9 @@ date: 2015-11-23 05:14:59
 ---
 ## About Mike
 
+
+<img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAIRAAAAJDA0NmVmY2NmLTQ0YjktNGI0Ni1iNzY2LWE5N2NlMGQ5MTk5MQ.jpg" align="left" style="padding: 10px 10px 10px 10px;radius: 10px;">
+
 I've been passionate about tutoring since I was in high school myself, assisting my fellow students as a member of the California Scholarship Federation. I custom tailor my tutoring to each student, and I work best with individuals who are reflective and fundamentally enjoy learning. My greatest strength as a tutor is in making difficult, technical, and complex subjects more digestible to the absolute beginner, building consistently on the basics in a way that fosters both subject mastery and deeper understanding.
 
 In my own schooling, I discovered a natural talent for science and math, which I nourished to achieve scores in the top 1% on many standardized tests. Over the years, I've helped many others boost their SAT and AP scores significantly.
