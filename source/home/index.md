@@ -2,8 +2,6 @@ title: home
 date: 2015-11-23 11:11:37
 ---
 # Tutor Mike's -- The Educational Edge
-
-
 <div class="gfyitem" width="50%" data-id="BossyFlickeringBat"></div>
 
 
