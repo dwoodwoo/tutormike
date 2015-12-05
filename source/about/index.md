@@ -21,4 +21,4 @@ Locations for Tutoring Services: **Piedmont**, **Oakland**, **Berkeley**. Also: 
 
 Don't be herded in with lesser corporate tutoring services. Private tutoring is available without a long-term contract. My customized approach, based on years of experience, helps shepherd you from early stages to educational success. I provide individualized, top-notch, directed tutoring, a premium service that is very focused yet also holistic, to bring you better results at a lower cost.
 
-Contact me to find out more and set up a free consultation.
+[Contact me](contact-us/) to find out more and set up a free consultation.

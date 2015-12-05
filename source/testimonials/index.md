@@ -25,3 +25,5 @@ date: 2015-11-23 11:36:27
 **"I used Tutor Mike in my college Organic Chemistry class. I'm not sure how I did it, but with his help, the material made much better sense."**
 
 *-Jocelyn, Walnut Creek*
+
+[Contact me](contact-us/) to find out more and set up a free consultation.

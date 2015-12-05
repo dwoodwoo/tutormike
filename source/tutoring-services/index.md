@@ -80,4 +80,4 @@ In addition to academic coaching and test preparation, I have helped many studen
 
 I firmly believe that the educational process, even at the highest of levels, does an inadequate job of preparing students to pursue an authentic, mission-driven professional life, and my coaching draws from all the best practices of the positive psychology movement to deliver amazingly effective results. I also build upon over a decade of experience in the engineering and technology arena, where I worked as a top technical trainer, to deliver custom learning programs by special request.
 
-Contact me to find out more and set up a free consultation.
+[Contact me](contact-us/) to find out more and set up a free consultation.

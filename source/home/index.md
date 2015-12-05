@@ -27,4 +27,4 @@ Through my coaching, I help students gain general learning skills: studying, wor
 ## Effective Tutoring
 The power to do well academically can be TRAINED. Directed training has proven to be the key to all students placing higher. Industry performance data has shown that those who receive tutoring average 250 points better on the SAT than those who don’t get help.
 
-Contact me for a free consultation.
+[Contact me](contact-us/) for a free consultation.
