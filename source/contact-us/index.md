@@ -6,11 +6,11 @@ date: 2015-11-28 20:09:33
 
 <form action="http://formspree.io/dwoo@sent.com" method="POST">
 	<fieldset>
-		<label for="your_name">Your Name:</label> <input type="text" name="your_name" placeholder="your name...">
-		<label for="tutoree_name">Tutoree's Name:</label> <input type="text" name="tutoree_name" placeholder="tutoree's name..."><br>
-		<label for="email">Email:</label> <input type="email" name="_replyto" placeholder="email">
-		<label for="email_again">Email again:</label> <input type="email" name="email_again" placeholder="email again">
-		<label for="phone">Phone:</label> <input type="text" name="phone" placeholder="phone"><br>
+		<label for="your_name">Your Name:</label> <input type="text" name="your_name" placeholder="your name..." required>
+		<label for="tutoree_name">Tutoree's Name:</label> <input type="text" name="tutoree_name" placeholder="tutoree's name..." required><br>
+		<label for="email">Email:</label> <input type="email" name="_replyto" placeholder="email" required>
+		<label for="email_again">Email again:</label> <input type="email" name="email_again" placeholder="email again" required>
+		<label for="phone">Phone:</label> <input type="tel" name="phone" placeholder="phone" required><br>
 	Services:
 		<input type="checkbox" name="services" value="Tutoring">Tutoring
 		<input type="checkbox" name="services" value="Test Prep">Test Prep
