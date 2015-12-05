@@ -3,6 +3,10 @@ date: 2015-11-23 11:11:37
 ---
 # Tutor Mike's -- The Educational Edge
 
+
+<div class="gfyitem" width="50%" data-id="BossyFlickeringBat"></div>
+
+
 With over a decade of experience as a tutor, teacher, and technical trainer, along with my prior experience in the technology industry through boom and bust, and my educational background from Harvard and Stanford, I offer a unique blend of tutoring, instruction, and coaching services: 
 * Academic Tutoring -- Specializing in Advanced Placement (AP) subjects.
 * Test Preparation -- SAT/ACT, SSAT, ISEE, CBEST
