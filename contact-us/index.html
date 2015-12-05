@@ -25,6 +25,50 @@
 		{
 		  -webkit-appearance:radio;
 		}
+	input[type=text], input[type=email], input[type=tel], textarea {
+	  -webkit-transition: all 0.30s ease-in-out;
+	  -moz-transition: all 0.30s ease-in-out;
+	  -ms-transition: all 0.30s ease-in-out;
+	  -o-transition: all 0.30s ease-in-out;
+	  outline: none;
+	  padding: 3px 0px 3px 3px;
+	  margin: 5px 1px 3px 0px;
+	  border: 1px solid #DDDDDD;
+	}
+
+	input[type=text]:focus, input[type=email]:focus,input[type=tel]:focus,  textarea:focus {
+	  box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+	  padding: 3px 0px 3px 3px;
+	  margin: 5px 1px 3px 0px;
+	  border: 1px solid rgba(81, 203, 238, 1);
+	}
+
+	label {
+    display: inline-block;
+    vertical-align: baseline;
+    width: 150px;
+	}
+
+	input {
+    display: inline-block;
+    vertical-align: baseline;
+    width: 200px;
+	}
+
+	label {
+	    color: #2D2D2D;
+	    font-size: 15px;
+	}
+
+	form, input {
+	    box-sizing: border-box;
+	    -moz-box-sizing: border-box;
+	    -webkit-box-sizing: border-box;
+	}
+
+	form {
+	    width: 300px;
+	}
     </style>
 </head>
 <body class="site">
@@ -69,7 +113,7 @@
             </header>
             
             <div class="article-body">
-                <form action="http://formspree.io/dwoo@sent.com" method="POST"><br>    <fieldset><br>        <label for="your_name">Your Name:</label> <input type="text" name="your_name" placeholder="your name..."><br>        <label for="tutoree_name">Tutoree’s Name:</label> <input type="text" name="tutoree_name" placeholder="tutoree's name..."><br><br>        <label for="email">Email:</label> <input type="email" name="_replyto" placeholder="email"><br>        <label for="email_again">Email again:</label> <input type="email" name="email_again" placeholder="email again"><br>        <label for="phone">Phone:</label> <input type="text" name="phone" placeholder="phone"><br><br>    Services:<br>        <input type="checkbox" name="services" value="Tutoring">Tutoring<br>        <input type="checkbox" name="services" value="Test Prep">Test Prep<br>        <input type="checkbox" name="services" value="Other">Other<br><br>        <label for="subjects">Subjects:</label><br>        <textarea name="subjects" rows="4" cols="50" placeholder="Any specific subjects?..."></textarea><br><br><br>        <label for="more_about_student">About Student:</label><br>        <textarea name="more_about_student" rows="4" cols="50" placeholder="About student. (tell us a bit about the student)"></textarea><br><br><br>        <label for="more_info">More info (optional):</label><br>        <textarea name="more_info" rows="4" cols="50" placeholder="More info (optional)"></textarea><br><br>        <input type="hidden" name="_next" value="tutormike/testimonials/"><br>        <input type="submit" value="Send to TutorMike!"><br>    </fieldset><br></form>
+                <form action="http://formspree.io/dwoo@sent.com" method="POST"><br>    <fieldset><br>        <label for="your_name">Your Name:</label> <input type="text" name="your_name" placeholder="your name..." required><br>        <label for="tutoree_name">Tutoree’s Name:</label> <input type="text" name="tutoree_name" placeholder="tutoree's name..." required><br><br>        <label for="email">Email:</label> <input type="email" name="_replyto" placeholder="email" required><br>        <label for="email_again">Email again:</label> <input type="email" name="email_again" placeholder="email again" required><br>        <label for="phone">Phone:</label> <input type="tel" name="phone" placeholder="phone" required><br><br>    Services:<br>        <input type="checkbox" name="services" value="Tutoring">Tutoring<br>        <input type="checkbox" name="services" value="Test Prep">Test Prep<br>        <input type="checkbox" name="services" value="Other">Other<br><br>        <label for="subjects">Subjects:</label><br>        <textarea name="subjects" rows="4" cols="50" placeholder="Any specific subjects?..."></textarea><br><br><br>        <label for="more_about_student">About Student:</label><br>        <textarea name="more_about_student" rows="4" cols="50" placeholder="About student. (tell us a bit about the student)"></textarea><br><br><br>        <label for="more_info">More info (optional):</label><br>        <textarea name="more_info" rows="4" cols="50" placeholder="More info (optional)"></textarea><br><br>        <input type="hidden" name="_next" value="tutormike/testimonials/"><br>        <input type="submit" value="Send to TutorMike!"><br>    </fieldset><br></form>
 
             </div>
         </div>
