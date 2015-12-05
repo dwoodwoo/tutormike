@@ -3,7 +3,7 @@ date: 2015-12-04 16:50:37
 ---
 ## Tutor Mike's -- The Educational Edge
 
-Tutor Mike can help you to reach extreme proficiency in most science and math-related subject areas. I am a father with over a decade of experience as a tutor, teacher, and technical trainer. My prior experience has been in the technology industry through boom and bust, and I have an educational background from Harvard and Stanford.
+Tutor Mike can help you to reach extreme proficiency in most science and math-related subject areas. I am a father with over a decade of experience as a tutor, teacher, and technical trainer. My educational background is from Harvard and Stanford, and I have also worked in the technology industry through boom and bust, earlier on in my career.
 
 I offer a unique blend of tutoring, instruction, and coaching services: 
 
